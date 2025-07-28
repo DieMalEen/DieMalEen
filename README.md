@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;Let's+build+cool+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;)](https://git.io/typing-svg)
 
 **Bachelor of Computing Student**  
 Pretoria, South Africa  
@@ -35,10 +35,9 @@ High School Diploma — *Jan 2018 - Nov 2022*
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical" height="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical" height="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical" width="45%" />
 </div>
----
