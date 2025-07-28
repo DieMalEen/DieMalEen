@@ -16,15 +16,6 @@ Currently pursuing a **Bachelor of Computing** at Belgium Campus (Jan 2023 - Nov
 
 ---
 
-## 💼 Experience
-
-**Retail Salesperson @ Blits Electricians & Hardware** *(Aug 2021 - Jun 2025)*  
-🛒 Boosted sales through customer engagement  
-✅ Matched products to customer needs and specifications  
-💬 Made shopping fun with social, friendly interactions  
-
----
-
 ## 🛠️ Technical Skills
 
 - **Languages**: Python, Java, C#, SQL  
