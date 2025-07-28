@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Vaughn du Preez 👋
 
-<!--
-**DieMalEen/DieMalEen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computing Student**  
+📍 Pretoria, South Africa  
+📧 [Vaughndupreez01@gmail.com](mailto:Vaughndupreez01@gmail.com)  
+🌐 [My Portfolio](https://industryconnect.belgiumcampus.ac.za/sites/s600220/)  
+💼 [My GitHub](https://github.com/DieMalEen)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Organized and dependable individual with a proven ability to manage multiple priorities while maintaining a positive attitude.  
+A **proactive problem solver** 💡 eager to learn and continuously grow both personally and professionally.  
+Currently pursuing a **Bachelor of Computing** at Belgium Campus (Jan 2023 - Nov 2026).  
+
+---
+
+## 💼 Experience
+
+**Retail Salesperson @ Blits Electricians & Hardware** *(Aug 2021 - Jun 2025)*  
+🛒 Boosted sales through customer engagement  
+✅ Matched products to customer needs and specifications  
+💬 Made shopping fun with social, friendly interactions  
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: Python, Java, C#, SQL  
+- **Web Dev**: HTML, CSS, JavaScript  
+- **Database Design**  
+- **Tools**: Microsoft Office  
+- **Languages Spoken**: English, Afrikaans
+
+---
+
+## 🎓 Education
+
+**🎓 Belgium Campus**  
+Bachelor of Computing — *Jan 2023 - Expected Nov 2026*  
+
+**🏫 HTS John Vorster**  
+High School Diploma — *Jan 2018 - Nov 2022*  
+
+---
+
+## 📈 GitHub Stats
+
+![Vaughn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical)
+
+---
+
+> *“Talk is cheap. Show me the code.”* – Linus Torvalds
