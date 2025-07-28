@@ -36,8 +36,6 @@ High School Diploma — *Jan 2018 - Nov 2022*
 ---
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical" width="45%" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical)
