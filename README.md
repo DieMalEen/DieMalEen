@@ -37,7 +37,8 @@ High School Diploma — *Jan 2018 - Nov 2022*
 
 ## 📈 GitHub Stats
 
-![Vaughn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DieMalEen&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical" width="45%" />
+</div>
 ---
