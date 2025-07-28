@@ -1,10 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;Let's+build+cool+stuff+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;Let's+build+cool+stuff)](https://git.io/typing-svg)
 
 **Bachelor of Computing Student**  
 Pretoria, South Africa  
-[Vaughndupreez01@gmail.com](mailto:Vaughndupreez01@gmail.com)  
-[My Portfolio](https://industryconnect.belgiumcampus.ac.za/sites/s600220/)  
-[My GitHub](https://github.com/DieMalEen)
+Email: [Vaughndupreez01@gmail.com](mailto:Vaughndupreez01@gmail.com)  
+My Website: [Vaughn du Preez - Computing Student & Developer](https://industryconnect.belgiumcampus.ac.za/sites/s600220/) 
 
 ---
 
