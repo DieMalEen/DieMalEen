@@ -1,4 +1,4 @@
-# Hi there, I'm Vaughn du Preez 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;Let's+build+cool+stuff+💻)](https://git.io/typing-svg)
 
 🎓 **Bachelor of Computing Student**  
 📍 Pretoria, South Africa  
@@ -42,4 +42,3 @@ High School Diploma — *Jan 2018 - Nov 2022*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieMalEen&layout=compact&theme=radical)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Vaughn+du+Preez!;I+code+in+Python%2C+Java+and+more...;Let's+build+cool+stuff+💻)](https://git.io/typing-svg)
